@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <integer-array name="photo_image">
+        <item>@drawable/messi</item>
+        <item>@drawable/ronaldo</item>
+        <item>@drawable/eden</item>
+        <item>@drawable/bale</item>
+        <item>@drawable/salah</item>
+
+        <item>@drawable/suarez</item>
+        <item>@drawable/kane</item>
+        <item>@drawable/lukaku</item>
+        <item>@drawable/pogba</item>
+        <item>@drawable/pele</item>
+
+        <item>@drawable/zidane</item>
+    </integer-array>
+
+    <string-array  name="name_player">
+        <item>Lionel Messi</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Eden Hazard</item>
+        <item>Gareth Bale</item>
+        <item>Mohamad Salah</item>
+
+        <item>Luis Suarez</item>
+        <item>Henry Kane</item>
+        <item>Romelu Lukaku</item>
+        <item>Paul Pogba</item>
+        <item>Kylan Bbape</item>
+
+        <item>Zinedin Zidane</item>
+    </string-array>
+
+
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SIKONTAK</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="name">Gede Giri Astra</string>
+    <string name="position">Android Freelancer</string>
+    <string name="desc_profile">Ability To Relate To Others, Teamwork, Problem Solver, Respectful, Committed And Passionate</string>
+    <string name="web">theheran.com</string>
+    <string name="email">info@theheran.com</string>
+    <string name="phone">083129588828</string>
+    <string name="location">BALI</string>
+    <string name="alamat">Kota Denpasar</string>
+</resources>
